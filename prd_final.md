@@ -158,11 +158,12 @@ or key features.
 
 ### Stack
 
-- **Frontend**: React 18, Next.js 14 (App Router), TypeScript, Tailwind CSS
+- **Frontend**: React 19, Next.js 16 with Turbopack (App Router), TypeScript, Tailwind CSS
 - **Backend**: Next.js API Routes (serverless functions)
-- **AI**: Anthropic Claude API (REST)
-- **PDF**: jsPDF + jspdf-autotable (client-side)
+- **AI**: Anthropic Claude API (REST) - Claude Sonnet 4
+- **PDF**: jsPDF 3.0.4 + jspdf-autotable 5.0.2 (client-side)
 - **Data**: Static JSON file (no database)
+- **Security**: All dependencies updated with zero vulnerabilities
 
 ### Data Flow
 
