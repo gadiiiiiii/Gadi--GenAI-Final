@@ -1,0 +1,380 @@
+[
+  {
+    "sku": "RH-FAS-4001",
+    "name": "Hex Bolt Grade 8, 1/2-13 x 2 inch",
+    "brand": "FastenPro",
+    "category": "Fasteners",
+    "unit": "box of 100",
+    "listPrice": 45.99,
+    "keywords": ["bolt", "hex", "grade 8", "1/2", "fastener", "hardware"]
+  },
+  {
+    "sku": "RH-FAS-4002",
+    "name": "Flat Washer USS, 1/2 inch",
+    "brand": "FastenPro",
+    "category": "Fasteners",
+    "unit": "box of 200",
+    "listPrice": 28.50,
+    "keywords": ["washer", "flat", "uss", "1/2", "hardware"]
+  },
+  {
+    "sku": "RH-FAS-4003",
+    "name": "Lock Washer Split Type, 3/8 inch",
+    "brand": "FastenPro",
+    "category": "Fasteners",
+    "unit": "box of 250",
+    "listPrice": 22.75,
+    "keywords": ["lock washer", "split", "3/8", "fastener"]
+  },
+  {
+    "sku": "RH-GLV-2101",
+    "name": "Nitrile Coated Work Gloves, Large",
+    "brand": "SafeGuard Pro",
+    "category": "Safety Equipment",
+    "unit": "pair",
+    "listPrice": 8.99,
+    "keywords": ["gloves", "nitrile", "work gloves", "safety", "large", "ppe"]
+  },
+  {
+    "sku": "RH-GLV-2102",
+    "name": "Cut Resistant Gloves Level A4, Medium",
+    "brand": "SafeGuard Pro",
+    "category": "Safety Equipment",
+    "unit": "pair",
+    "listPrice": 14.50,
+    "keywords": ["gloves", "cut resistant", "a4", "medium", "safety", "ppe"]
+  },
+  {
+    "sku": "RH-GLV-2103",
+    "name": "Leather Work Gloves, X-Large",
+    "brand": "DuraWear",
+    "category": "Safety Equipment",
+    "unit": "pair",
+    "listPrice": 12.25,
+    "keywords": ["gloves", "leather", "work", "xl", "xlarge", "safety"]
+  },
+  {
+    "sku": "RH-SAF-3201",
+    "name": "Safety Glasses Clear Lens Anti-Fog",
+    "brand": "VisionShield",
+    "category": "Safety Equipment",
+    "unit": "each",
+    "listPrice": 6.99,
+    "keywords": ["safety glasses", "clear", "anti-fog", "eye protection", "ppe"]
+  },
+  {
+    "sku": "RH-SAF-3202",
+    "name": "Safety Glasses Tinted UV Protection",
+    "brand": "VisionShield",
+    "category": "Safety Equipment",
+    "unit": "each",
+    "listPrice": 8.50,
+    "keywords": ["safety glasses", "tinted", "uv", "eye protection", "ppe"]
+  },
+  {
+    "sku": "RH-ABR-5001",
+    "name": "Grinding Wheel 4.5 inch Type 27 60 Grit",
+    "brand": "SpinMaster",
+    "category": "Abrasives",
+    "unit": "pack of 10",
+    "listPrice": 32.99,
+    "keywords": ["grinding wheel", "4.5", "type 27", "60 grit", "abrasive"]
+  },
+  {
+    "sku": "RH-ABR-5002",
+    "name": "Flap Disc 4.5 inch 80 Grit Zirconia",
+    "brand": "SpinMaster",
+    "category": "Abrasives",
+    "unit": "pack of 10",
+    "listPrice": 38.75,
+    "keywords": ["flap disc", "4.5", "80 grit", "zirconia", "abrasive"]
+  },
+  {
+    "sku": "RH-ABR-5003",
+    "name": "Sanding Belt 3x21 inch 120 Grit Aluminum Oxide",
+    "brand": "SpinMaster",
+    "category": "Abrasives",
+    "unit": "pack of 5",
+    "listPrice": 18.50,
+    "keywords": ["sanding belt", "3x21", "120 grit", "aluminum oxide", "abrasive"]
+  },
+  {
+    "sku": "RH-TAP-6101",
+    "name": "Duct Tape 2 inch x 60 yards Silver",
+    "brand": "StickyFix",
+    "category": "Tapes & Adhesives",
+    "unit": "roll",
+    "listPrice": 12.99,
+    "keywords": ["duct tape", "2 inch", "silver", "tape", "adhesive"]
+  },
+  {
+    "sku": "RH-TAP-6102",
+    "name": "Electrical Tape 3/4 inch x 66 feet Black",
+    "brand": "VoltWrap",
+    "category": "Tapes & Adhesives",
+    "unit": "roll",
+    "listPrice": 3.49,
+    "keywords": ["electrical tape", "3/4", "black", "tape", "insulation"]
+  },
+  {
+    "sku": "RH-TAP-6103",
+    "name": "Double Sided Mounting Tape 1 inch x 5 yards",
+    "brand": "StickyFix",
+    "category": "Tapes & Adhesives",
+    "unit": "roll",
+    "listPrice": 8.75,
+    "keywords": ["double sided", "mounting tape", "1 inch", "adhesive"]
+  },
+  {
+    "sku": "RH-LUB-7201",
+    "name": "Multi-Purpose Lithium Grease 14 oz Cartridge",
+    "brand": "SmoothFlow",
+    "category": "Lubricants",
+    "unit": "each",
+    "listPrice": 9.99,
+    "keywords": ["grease", "lithium", "14 oz", "cartridge", "lubricant"]
+  },
+  {
+    "sku": "RH-LUB-7202",
+    "name": "Penetrating Oil Spray 11 oz Aerosol",
+    "brand": "FreeFlow",
+    "category": "Lubricants",
+    "unit": "can",
+    "listPrice": 7.25,
+    "keywords": ["penetrating oil", "spray", "11 oz", "aerosol", "lubricant"]
+  },
+  {
+    "sku": "RH-LUB-7203",
+    "name": "Chain and Cable Lubricant 16 oz",
+    "brand": "SmoothFlow",
+    "category": "Lubricants",
+    "unit": "bottle",
+    "listPrice": 11.50,
+    "keywords": ["chain lube", "cable", "16 oz", "lubricant"]
+  },
+  {
+    "sku": "RH-FIT-8301",
+    "name": "Brass Pipe Fitting Elbow 90° 1/2 inch NPT",
+    "brand": "ConnectRight",
+    "category": "Pipe Fittings",
+    "unit": "each",
+    "listPrice": 4.99,
+    "keywords": ["fitting", "elbow", "90 degree", "1/2", "npt", "brass"]
+  },
+  {
+    "sku": "RH-FIT-8302",
+    "name": "Steel Coupling 3/4 inch NPT",
+    "brand": "ConnectRight",
+    "category": "Pipe Fittings",
+    "unit": "each",
+    "listPrice": 3.75,
+    "keywords": ["coupling", "3/4", "npt", "steel", "fitting"]
+  },
+  {
+    "sku": "RH-FIT-8303",
+    "name": "Brass Tee Fitting 1/2 inch NPT",
+    "brand": "ConnectRight",
+    "category": "Pipe Fittings",
+    "unit": "each",
+    "listPrice": 6.50,
+    "keywords": ["tee", "fitting", "1/2", "npt", "brass"]
+  },
+  {
+    "sku": "RH-ELC-9401",
+    "name": "Wire Connector Twist-On Orange 22-14 AWG",
+    "brand": "QuickConnect",
+    "category": "Electrical",
+    "unit": "pack of 25",
+    "listPrice": 5.99,
+    "keywords": ["wire connector", "twist on", "orange", "wire nut", "22-14 awg"]
+  },
+  {
+    "sku": "RH-ELC-9402",
+    "name": "Heat Shrink Tubing Assortment Kit",
+    "brand": "ShrinkTech",
+    "category": "Electrical",
+    "unit": "kit",
+    "listPrice": 16.99,
+    "keywords": ["heat shrink", "tubing", "assortment", "electrical"]
+  },
+  {
+    "sku": "RH-ELC-9403",
+    "name": "Cable Ties 8 inch UV Resistant Black",
+    "brand": "QuickConnect",
+    "category": "Electrical",
+    "unit": "pack of 100",
+    "listPrice": 9.50,
+    "keywords": ["cable ties", "zip ties", "8 inch", "uv", "black"]
+  },
+  {
+    "sku": "RH-CLE-1501",
+    "name": "Degreaser Industrial Strength 1 Gallon",
+    "brand": "CleanPro",
+    "category": "Cleaning Supplies",
+    "unit": "gallon",
+    "listPrice": 24.99,
+    "keywords": ["degreaser", "industrial", "1 gallon", "cleaner"]
+  },
+  {
+    "sku": "RH-CLE-1502",
+    "name": "All-Purpose Cleaner Spray 32 oz",
+    "brand": "CleanPro",
+    "category": "Cleaning Supplies",
+    "unit": "bottle",
+    "listPrice": 8.99,
+    "keywords": ["cleaner", "all purpose", "spray", "32 oz"]
+  },
+  {
+    "sku": "RH-TOL-1601",
+    "name": "Utility Knife Retractable Heavy Duty",
+    "brand": "SharpEdge",
+    "category": "Hand Tools",
+    "unit": "each",
+    "listPrice": 14.99,
+    "keywords": ["utility knife", "retractable", "heavy duty", "cutter"]
+  },
+  {
+    "sku": "RH-TOL-1602",
+    "name": "Adjustable Wrench 10 inch Chrome",
+    "brand": "TurboGrip",
+    "category": "Hand Tools",
+    "unit": "each",
+    "listPrice": 18.50,
+    "keywords": ["wrench", "adjustable", "10 inch", "chrome", "crescent"]
+  },
+  {
+    "sku": "RH-TOL-1603",
+    "name": "Hex Key Set Metric 1.5-10mm",
+    "brand": "TurboGrip",
+    "category": "Hand Tools",
+    "unit": "set",
+    "listPrice": 12.99,
+    "keywords": ["hex key", "allen", "metric", "1.5-10mm", "set"]
+  },
+  {
+    "sku": "RH-PAI-1701",
+    "name": "Spray Paint Gloss Black 12 oz",
+    "brand": "ColorCoat",
+    "category": "Paint & Coatings",
+    "unit": "can",
+    "listPrice": 6.99,
+    "keywords": ["spray paint", "gloss", "black", "12 oz", "aerosol"]
+  },
+  {
+    "sku": "RH-PAI-1702",
+    "name": "Rust-Oleum Primer Gray 12 oz",
+    "brand": "ColorCoat",
+    "category": "Paint & Coatings",
+    "unit": "can",
+    "listPrice": 7.50,
+    "keywords": ["primer", "gray", "rust", "12 oz", "spray"]
+  },
+  {
+    "sku": "RH-STO-1801",
+    "name": "Storage Bin Plastic Stackable 10 Gallon",
+    "brand": "OrganizePro",
+    "category": "Storage",
+    "unit": "each",
+    "listPrice": 14.99,
+    "keywords": ["storage bin", "plastic", "stackable", "10 gallon", "container"]
+  },
+  {
+    "sku": "RH-STO-1802",
+    "name": "Tool Box Metal 20 inch with Tray",
+    "brand": "OrganizePro",
+    "category": "Storage",
+    "unit": "each",
+    "listPrice": 42.99,
+    "keywords": ["tool box", "metal", "20 inch", "tray", "storage"]
+  },
+  {
+    "sku": "RH-SEA-1901",
+    "name": "Silicone Sealant Clear 10.1 oz Cartridge",
+    "brand": "SealTight",
+    "category": "Sealants",
+    "unit": "tube",
+    "listPrice": 8.49,
+    "keywords": ["silicone", "sealant", "clear", "10.1 oz", "caulk"]
+  },
+  {
+    "sku": "RH-SEA-1902",
+    "name": "Thread Sealant Tape PTFE 1/2 inch x 520 inch",
+    "brand": "SealTight",
+    "category": "Sealants",
+    "unit": "roll",
+    "listPrice": 2.99,
+    "keywords": ["thread seal", "tape", "ptfe", "teflon", "1/2 inch"]
+  },
+  {
+    "sku": "RH-SAF-3203",
+    "name": "Hard Hat ANSI Type 1 Yellow",
+    "brand": "SafeGuard Pro",
+    "category": "Safety Equipment",
+    "unit": "each",
+    "listPrice": 19.99,
+    "keywords": ["hard hat", "helmet", "ansi", "type 1", "yellow", "ppe"]
+  },
+  {
+    "sku": "RH-SAF-3204",
+    "name": "Ear Plugs Foam Uncorded NRR 32",
+    "brand": "SafeGuard Pro",
+    "category": "Safety Equipment",
+    "unit": "box of 200",
+    "listPrice": 24.50,
+    "keywords": ["ear plugs", "foam", "nrr 32", "hearing protection", "ppe"]
+  },
+  {
+    "sku": "RH-FAS-4004",
+    "name": "Carriage Bolt 3/8-16 x 3 inch Zinc Plated",
+    "brand": "FastenPro",
+    "category": "Fasteners",
+    "unit": "box of 50",
+    "listPrice": 28.99,
+    "keywords": ["carriage bolt", "3/8", "3 inch", "zinc", "fastener"]
+  },
+  {
+    "sku": "RH-FAS-4005",
+    "name": "Machine Screw Phillips Flat 10-24 x 1 inch",
+    "brand": "FastenPro",
+    "category": "Fasteners",
+    "unit": "box of 100",
+    "listPrice": 18.75,
+    "keywords": ["machine screw", "phillips", "flat", "10-24", "1 inch"]
+  },
+  {
+    "sku": "RH-ABR-5004",
+    "name": "Cut-Off Wheel 4 inch Type 1 for Metal",
+    "brand": "SpinMaster",
+    "category": "Abrasives",
+    "unit": "pack of 25",
+    "listPrice": 42.50,
+    "keywords": ["cut off wheel", "4 inch", "type 1", "metal", "abrasive"]
+  },
+  {
+    "sku": "RH-CLE-1503",
+    "name": "Shop Towels Blue 200 count Roll",
+    "brand": "CleanPro",
+    "category": "Cleaning Supplies",
+    "unit": "roll",
+    "listPrice": 16.99,
+    "keywords": ["shop towels", "blue", "200 count", "wipes", "cleaning"]
+  },
+  {
+    "sku": "RH-HYD-2001",
+    "name": "Hydraulic Hose 1/2 inch 2-Wire 3000 PSI",
+    "brand": "FlexLine",
+    "category": "Hoses & Fittings",
+    "unit": "per foot",
+    "listPrice": 4.25,
+    "keywords": ["hydraulic hose", "1/2 inch", "2 wire", "3000 psi", "hose"]
+  },
+  {
+    "sku": "RH-HYD-2002",
+    "name": "Hydraulic Fitting JIC 37° 1/2 inch Male",
+    "brand": "FlexLine",
+    "category": "Hoses & Fittings",
+    "unit": "each",
+    "listPrice": 8.99,
+    "keywords": ["hydraulic fitting", "jic", "37 degree", "1/2 inch", "male"]
+  }
+]
